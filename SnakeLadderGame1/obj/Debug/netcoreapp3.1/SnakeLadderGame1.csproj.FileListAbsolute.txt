@@ -1,0 +1,14 @@
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\bin\Debug\netcoreapp3.1\SnakeLadderGame1.exe
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\bin\Debug\netcoreapp3.1\SnakeLadderGame1.deps.json
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\bin\Debug\netcoreapp3.1\SnakeLadderGame1.runtimeconfig.json
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\bin\Debug\netcoreapp3.1\SnakeLadderGame1.runtimeconfig.dev.json
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\bin\Debug\netcoreapp3.1\SnakeLadderGame1.dll
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\bin\Debug\netcoreapp3.1\SnakeLadderGame1.pdb
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.csproj.AssemblyReference.cache
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.AssemblyInfo.cs
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.dll
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.pdb
+C:\Users\Yash\source\repos\SnakeLadderGame1\SnakeLadderGame1\obj\Debug\netcoreapp3.1\SnakeLadderGame1.genruntimeconfig.cache
